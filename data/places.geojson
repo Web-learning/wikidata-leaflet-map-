@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johannesburg",
+        "wikidata": "Q34647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0473, -26.2041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durban",
+        "wikidata": "Q175154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.0218, -29.8587]
+      }
+    }
+  ]
+}
