@@ -1,0 +1,8 @@
+
+---
+
+# 🚫 6. `.gitignore`
+
+```bash id="gitignore-01"
+node_modules/
+.DS_Store
